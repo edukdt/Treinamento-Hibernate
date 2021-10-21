@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1058]C:\Users\eduardo.cruz\Desktop\Vixteam\treinamentos\hibernate\Day1\completo\NHibernateWorkshop\bin\NHibernateWorkshop.dll</TopNode>
+  <SelectedNode>[0-1058]C:\Users\eduardo.cruz\Desktop\Vixteam\treinamentos\hibernate\Day1\completo\NHibernateWorkshop\bin\NHibernateWorkshop.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1058]C:\Users\eduardo.cruz\Desktop\Vixteam\treinamentos\hibernate\Day1\completo\NHibernateWorkshop\bin\NHibernateWorkshop.dll" Expanded="true" />
+    <Node UniqueName="[0-1059]NHibernateWorkshop" Expanded="true" />
+    <Node UniqueName="[0-1061]NHibernateWorkshop.AssociationFixtures" Expanded="true" />
+    <Node UniqueName="[0-1063]NHibernateWorkshop.AssociationFixtures.ManyToOneFixtures" Expanded="true" />
+    <Node UniqueName="[0-1062]NHibernateWorkshop.AssociationFixtures.OneToManyFixtures" Expanded="true" />
+    <Node UniqueName="[0-1043]NHibernateWorkshop.AssociationFixtures.OneToManyFixtures.ProductProductSources" Expanded="true" />
+    <Node UniqueName="[0-1060]NHibernateWorkshop.Crud" Expanded="true" />
+  </Nodes>
+</VisualState>

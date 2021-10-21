@@ -1,0 +1,12 @@
+C:\Users\eduardo.cruz\source\repos\nhibernatetraining\Day1\Full\Northwind\bin\Northwind.dll
+C:\Users\eduardo.cruz\source\repos\nhibernatetraining\Day1\Full\Northwind\bin\Northwind.pdb
+C:\Users\eduardo.cruz\source\repos\nhibernatetraining\Day1\Full\Northwind\bin\FluentNHibernate.dll
+C:\Users\eduardo.cruz\source\repos\nhibernatetraining\Day1\Full\Northwind\bin\Iesi.Collections.dll
+C:\Users\eduardo.cruz\source\repos\nhibernatetraining\Day1\Full\Northwind\bin\NHibernate.dll
+C:\Users\eduardo.cruz\source\repos\nhibernatetraining\Day1\Full\Northwind\bin\FluentNHibernate.pdb
+C:\Users\eduardo.cruz\source\repos\nhibernatetraining\Day1\Full\Northwind\bin\Iesi.Collections.xml
+C:\Users\eduardo.cruz\source\repos\nhibernatetraining\Day1\Full\Northwind\bin\NHibernate.xml
+C:\Users\eduardo.cruz\source\repos\nhibernatetraining\Day1\Full\Northwind\obj\HBMSQLITE\Northwind.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.cruz\source\repos\nhibernatetraining\Day1\Full\Northwind\obj\HBMSQLITE\Northwind.csproj.CopyComplete
+C:\Users\eduardo.cruz\source\repos\nhibernatetraining\Day1\Full\Northwind\obj\HBMSQLITE\Northwind.dll
+C:\Users\eduardo.cruz\source\repos\nhibernatetraining\Day1\Full\Northwind\obj\HBMSQLITE\Northwind.pdb

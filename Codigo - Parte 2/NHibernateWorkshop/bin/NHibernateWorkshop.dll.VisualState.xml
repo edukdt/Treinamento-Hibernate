@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1030]NHibernateWorkshop.Crud.ProductCrud</TopNode>
+  <SelectedNode>[0-1266]NHibernateWorkshop.Performance.SessionCacheAndFutures.large_query_with_joins_vs_batched_queries</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1302]C:\Users\eduardo.cruz\Desktop\Vixteam\treinamentos\hibernate\Day2\Full\NHibernateWorkshop\bin\NHibernateWorkshop.dll" Expanded="true" />
+    <Node UniqueName="[0-1303]NHibernateWorkshop" Expanded="true" />
+    <Node UniqueName="[0-1313]NHibernateWorkshop.AssociationFixtures" Expanded="true" />
+    <Node UniqueName="[0-1315]NHibernateWorkshop.AssociationFixtures.ManyToOneFixtures" Expanded="true" />
+    <Node UniqueName="[0-1314]NHibernateWorkshop.AssociationFixtures.OneToManyFixtures" Expanded="true" />
+    <Node UniqueName="[0-1304]NHibernateWorkshop.Crud" Expanded="true" />
+    <Node UniqueName="[0-1005]NHibernateWorkshop.Crud.ProductSourceCrud" Expanded="true" />
+    <Node UniqueName="[0-1312]NHibernateWorkshop.OptimisticConcurrency" Expanded="true" />
+    <Node UniqueName="[0-1311]NHibernateWorkshop.Performance" Expanded="true" />
+    <Node UniqueName="[0-1245]NHibernateWorkshop.Performance.ExecutableHql" Expanded="true" />
+    <Node UniqueName="[0-1248]NHibernateWorkshop.Performance.ExtraLazyCollection" Expanded="true" />
+    <Node UniqueName="[0-1251]NHibernateWorkshop.Performance.Futures" Expanded="true" />
+    <Node UniqueName="[0-1257]NHibernateWorkshop.Performance.Proxies" Expanded="true" />
+    <Node UniqueName="[0-1265]NHibernateWorkshop.Performance.SessionCacheAndFutures" Expanded="true" />
+    <Node UniqueName="[0-1305]NHibernateWorkshop.Querying" Expanded="true" />
+    <Node UniqueName="[0-1310]NHibernateWorkshop.Querying.Criteria" Expanded="true" />
+    <Node UniqueName="[0-1309]NHibernateWorkshop.Querying.HQL" Expanded="true" />
+    <Node UniqueName="[0-1308]NHibernateWorkshop.Querying.LINQ" Expanded="true" />
+    <Node UniqueName="[0-1307]NHibernateWorkshop.Querying.NativeSQL" Expanded="true" />
+    <Node UniqueName="[0-1306]NHibernateWorkshop.Querying.QueryOver" Expanded="true" />
+  </Nodes>
+</VisualState>

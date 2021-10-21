@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\eduardo.cruz\Desktop\Vixteam\treinamentos\hibernate\Day2\Full\NHibernateWorkshop\bin\NHibernateWorkshop.dll" total="1" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2021-10-21" time="17:55:52">
+  <environment nunit-version="2.5.9.10348" clr-version="2.0.50727.9151" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Users\eduardo.cruz\Desktop\Vixteam\treinamentos\hibernate\Day2\Full" machine-name="SEVIX-VIXT-NB90" user="eduardo.cruz" user-domain="VIXTEAM" />
+  <culture-info current-culture="pt-BR" current-uiculture="pt-BR" />
+  <test-suite type="Assembly" name="C:\Users\eduardo.cruz\Desktop\Vixteam\treinamentos\hibernate\Day2\Full\NHibernateWorkshop\bin\NHibernateWorkshop.dll" executed="True" result="Success" success="True" time="0.072" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="NHibernateWorkshop" executed="True" result="Success" success="True" time="0.057" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Performance" executed="True" result="Success" success="True" time="0.035" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="SessionCacheAndFutures" executed="True" result="Success" success="True" time="0.035" asserts="0">
+                <results>
+                  <test-case name="NHibernateWorkshop.Performance.SessionCacheAndFutures.large_query_with_joins_vs_batched_queries" executed="True" result="Success" success="True" time="0.035" asserts="213" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
